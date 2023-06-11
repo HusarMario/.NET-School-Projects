@@ -1,0 +1,33 @@
+﻿<Window x:Class="CV6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CV6"
+        mc:Ignorable="d"
+        Title="CV6 - GUI" Height="450" Width="800">
+    <Grid Margin="-10,16,10,-16">
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+
+        </Grid.RowDefinitions>
+        <Button Grid.Column = "0" Grid.Row = "0" Padding="10,5"
+                HorizontalAlignment = "Center" VerticalAlignment = "Top" Click="ShowHelloButton_Click" Margin="0,139,0,0">
+            <StackPanel>
+                <Image Height="50" Width="50">
+                    <Image.Source>Pictures\1200px-SNice.svg.png</Image.Source>
+                </Image>
+                <TextBlock ><Run Text="Hello World"/></TextBlock>
+            </StackPanel>
+        </Button >
+        <Button Margin="290,222,290,5" Click="ChangeBackgroundColorButton_Click" >
+            <Button.Content>
+                <TextBlock>
+                    Change background color!
+                </TextBlock>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>

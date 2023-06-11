@@ -1,0 +1,12 @@
+Easy
+1. Default 1000
+2. Default 500
+3. Default 100
+Medium
+1. Default 1000
+2. Default 500
+3. Default 100
+Hard
+1. Default 1000
+2. Default 500
+3. Default 100

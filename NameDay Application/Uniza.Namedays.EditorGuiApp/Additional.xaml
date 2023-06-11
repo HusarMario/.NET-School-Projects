@@ -1,0 +1,18 @@
+﻿<Window x:Class="Uniza.Namedays.EditorGUIApp.Additional"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Uniza.Namedays.EditorGUIApp"
+        mc:Ignorable="d"
+        Title="Additional" Height="200" Width="300">
+    <Grid>
+        <Button Content="OK" HorizontalAlignment="Left" Height="32" Margin="95,126,0,0" VerticalAlignment="Top" Width="76" Click="OK_Click"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Height="32" Margin="193,126,0,0" VerticalAlignment="Top" Width="77" Click="Cancel_Click"/>
+        <TextBox Name="name" HorizontalAlignment="Left" Height="30" Margin="63,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="207"/>
+        <DatePicker Name="date" HorizontalAlignment="Left" Height="27" Margin="63,77,0,0" VerticalAlignment="Top" Width="207"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,27,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Height="20" Width="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,79,0,0" TextWrapping="Wrap" Text="Date" VerticalAlignment="Top" Height="20" Width="48"/>
+
+    </Grid>
+</Window>

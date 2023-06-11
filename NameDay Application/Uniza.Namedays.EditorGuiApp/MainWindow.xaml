@@ -1,0 +1,57 @@
+﻿<Window x:Name="Main" x:Class="Uniza.Namedays.EditorGuiApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Uniza.Namedays.EditorGuiApp"
+        mc:Ignorable="d"
+        Title="Namedays" Height="450" Width="800">
+
+    <Grid>
+        <DockPanel LastChildFill="False" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Height="25" VerticalAlignment="Top">
+            <Menu>
+                <MenuItem Header="_File" Height="25" Width="40">
+                    <MenuItem Header="_New" Click="New_Click"/>
+                    <MenuItem Header="_Open..." Click="Open_Click"/>
+                    <MenuItem Header="_Save as..." Click="Save_Click"/>
+                    <Separator />
+                    <MenuItem Header="_Exit" Click="Exit_Click"/>
+                </MenuItem>
+                <MenuItem Header="_Help" Height="25" Width="40">
+                    <MenuItem Header="_About" Click="About_Click"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+
+        <Border BorderBrush="Black" BorderThickness="1" Margin="25,0,350,40" Height="325" VerticalAlignment="Bottom">
+            <Grid Margin="0,0,-13,0">
+                <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="42" Margin="17,19,0,0" VerticalAlignment="Top" Width="291">
+                    <Grid>
+                        <TextBox Name="regex" HorizontalAlignment="Left" Height="20" Margin="144,8,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="135"/>
+                        <TextBlock HorizontalAlignment="Left" Height="17" Margin="10,10,0,0" TextWrapping="Wrap" Text="Month:" VerticalAlignment="Top" Width="61"/>
+                        <ComboBox HorizontalAlignment="Left" Margin="52,8,0,0" VerticalAlignment="Top" Width="87" Height="20" />
+                    </Grid>
+                </Border>
+                <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="217" Margin="19,87,0,0" VerticalAlignment="Top" Width="289"/>
+
+                <Button Content="Clear Filter" HorizontalAlignment="Left" Height="25" Margin="325,26,0,0" VerticalAlignment="Top" Width="64" Click="ClearFilter_Click"/>
+                <Button Content="Add.." HorizontalAlignment="Left" Height="25" Margin="325,113,0,0" VerticalAlignment="Top" Width="64" Click="Button_Click"/>
+                <Button Content="Edit.." HorizontalAlignment="Left" Height="25" Margin="325,0,0,0" VerticalAlignment="Center" Width="64"/>
+                <Button Content="Remove" HorizontalAlignment="Left" Height="25" Margin="325,188,0,0" VerticalAlignment="Top" Width="64"/>
+                <Button Content="Show on calendar" HorizontalAlignment="Left" Height="26" Margin="325,246,0,0" VerticalAlignment="Top" Width="64"/>
+                <TextBlock HorizontalAlignment="Left" Height="26" Margin="328,278,0,0" TextWrapping="Wrap" Text="Count:  /" VerticalAlignment="Top" Width="61"/>
+            </Grid>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="1" Margin="455,0,25,40" Height="325" VerticalAlignment="Bottom">
+            <Grid>
+                <Button Content="Today" HorizontalAlignment="Center" Margin="0,27,0,0" VerticalAlignment="Top" Width="72" Click="Today_Click"/>
+                <Calendar HorizontalAlignment="Left" Height="174" Margin="31,71,0,0" VerticalAlignment="Top" Width="253" />
+                <TextBlock HorizontalAlignment="Left" Margin="51,245,0,0" TextWrapping="Wrap" Text="TextBlock celebrates" VerticalAlignment="Top"/>
+                <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" Height="39" Margin="0,265,0,0" VerticalAlignment="Top" Width="223"/>
+            </Grid>
+        </Border>
+
+
+    </Grid>
+</Window>

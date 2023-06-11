@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\bin\Debug\net6.0\Uniza.Namedays.deps.json
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\bin\Debug\net6.0\Uniza.Namedays.dll
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\bin\Debug\net6.0\Uniza.Namedays.pdb
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\Uniza.Namedays.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\Uniza.Namedays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\Uniza.Namedays.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\Uniza.Namedays.AssemblyInfo.cs
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\Uniza.Namedays.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\Uniza.Namedays.dll
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\refint\Uniza.Namedays.dll
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\Uniza.Namedays.pdb
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\HomeTasks\Task2\Task2\Uniza.Namedays\obj\Debug\net6.0\ref\Uniza.Namedays.dll

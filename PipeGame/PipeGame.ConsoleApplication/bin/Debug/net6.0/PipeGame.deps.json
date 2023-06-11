@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PipeGame/1.0.0": {
+        "dependencies": {
+          "PipeGame.Library": "1.0.0"
+        },
+        "runtime": {
+          "PipeGame.dll": {}
+        }
+      },
+      "PipeGame.Library/1.0.0": {
+        "runtime": {
+          "PipeGame.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PipeGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PipeGame.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

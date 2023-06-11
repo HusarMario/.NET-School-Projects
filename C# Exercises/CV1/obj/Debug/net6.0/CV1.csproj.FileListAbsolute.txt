@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\CV1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\CV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\CV1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\CV1.AssemblyInfo.cs
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\CV1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\bin\Debug\net6.0\CV1.exe
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\bin\Debug\net6.0\CV1.deps.json
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\bin\Debug\net6.0\CV1.runtimeconfig.json
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\bin\Debug\net6.0\CV1.dll
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\bin\Debug\net6.0\CV1.pdb
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\CV1.dll
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\refint\CV1.dll
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\CV1.pdb
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\CV1.genruntimeconfig.cache
+C:\Users\user\OneDrive\Počítač\UNIZA FRI\2. ročník\letný semester\Jazyk C a Net\Cvicenia\Cviko1\obj\Debug\net6.0\ref\CV1.dll

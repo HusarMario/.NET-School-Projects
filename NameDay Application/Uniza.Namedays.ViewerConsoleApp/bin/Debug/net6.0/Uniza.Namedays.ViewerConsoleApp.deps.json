@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Uniza.Namedays.ViewerConsoleApp/1.0.0": {
+        "dependencies": {
+          "Uniza.Namedays": "1.0.0"
+        },
+        "runtime": {
+          "Uniza.Namedays.ViewerConsoleApp.dll": {}
+        }
+      },
+      "Uniza.Namedays/1.0.0": {
+        "runtime": {
+          "Uniza.Namedays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uniza.Namedays.ViewerConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Uniza.Namedays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
